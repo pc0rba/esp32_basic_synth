@@ -22,7 +22,7 @@ void setup()
     /*
      * this code runs once
      */
-    delay(500);
+    //delay(500);
 
     Serial.begin(115200);
 
